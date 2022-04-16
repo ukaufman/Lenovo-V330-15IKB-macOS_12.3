@@ -14,7 +14,8 @@
 - Integrated Keyboard: PS/2 compatible.
 - Touchpad: I2C Synaptics Touchpad with multi-touch.
 - Wi-Fi: Intel® Wireless-AC 3165 dual band.
-- Ethernet: Realtek RTL 8111.
+- Ethernet: Realtek RTL8111.
+- Audio: Conexant 20672.
 - Webcam: USB Webcam.
 - BIOS: 6SCN41WW.
 
